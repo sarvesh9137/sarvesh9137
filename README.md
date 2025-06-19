@@ -29,14 +29,4 @@
 **Tools & Design:**  
 `Apollo-GraphQL` `Git` `GitHub` `Postman` `Figma` `Canva`
 
----
-
-## 📊 GitHub Stats
-
-![Sarvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarveshsingh&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshsingh&layout=compact&theme=radical)
-
----
-
 _✨ Let’s build powerful, user-centric applications together!_
