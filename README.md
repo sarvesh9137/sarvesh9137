@@ -1,5 +1,14 @@
-# Welcome to GitHub Desktop!
+# 👋 Hi, I'm Sarvesh Singh
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+💻 I'm a Computer Engineering Graduate and Full-Stack Developer  
+🔭 Currently building a Stock Price Prediction Web App  
+🌱 Learning advanced React, Flask, and Machine Learning  
+📫 Connect with me: [LinkedIn](https://linkedin.com/in/yourprofile)
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## 🚀 Skills
+- Frontend: React, Tailwind CSS, JavaScript
+- Backend: Flask, Node.js
+- ML: Python, LSTM, yfinance
+- Tools: Git, GitHub, Postman
+
+![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshsingh&show_icons=true&theme=radical)
